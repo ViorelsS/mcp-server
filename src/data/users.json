@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@test.com",
+    "address": "123 Main St, Anytown, USA",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@test.com",
+    "address": "456 Elm St, Othertown, USA",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie@test.com",
+    "address": "789 Oak St, Sometown, USA",
+    "phone": "555-9012"
+  },
+  {
+    "id": 4,
+    "name": "Kyle",
+    "email": "test.@test.com",
+    "address": "test",
+    "phone": "26123521784682174"
+  },
+  {
+    "id": 5,
+    "name": "Mario Rossi",
+    "email": "test@example.com",
+    "address": "Via Roma 1, Milano",
+    "phone": "3331234567"
+  },
+  {
+    "id": 6,
+    "name": "Marco",
+    "email": "marco@test.it",
+    "address": "1232 Main st",
+    "phone": "23452561"
+  }
+]
