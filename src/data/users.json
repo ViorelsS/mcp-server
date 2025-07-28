@@ -40,5 +40,26 @@
     "email": "marco@test.it",
     "address": "1232 Main st",
     "phone": "23452561"
+  },
+  {
+    "id": 7,
+    "name": "Mike",
+    "email": "mike.johnson@example.com",
+    "address": "742 Evergreen Terrace, Springfield, USA",
+    "phone": "555-0198"
+  },
+  {
+    "id": 8,
+    "name": "Jessica M. Turner",
+    "email": "jessica.turner84@gmail.com",
+    "address": "4821 Willowbrook Ave, Apt 3B, Columbus, OH 43220",
+    "phone": "(614) 555-2387"
+  },
+  {
+    "id": 9,
+    "name": "Jessica M. Turner",
+    "email": "jessica.turner87@gmail.com",
+    "address": "4821 Willowbrook Ave, Apt 3B, Columbus, OH 43215",
+    "phone": "(614) 555-2387"
   }
 ]
