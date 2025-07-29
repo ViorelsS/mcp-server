@@ -73,7 +73,7 @@ server.resource(
       contents: [
         {
           uri: uri.href,
-          text: JSON.stringify(users),
+          text: JSON.stringify(user),
           mimeType: "application/json",
         },
       ],

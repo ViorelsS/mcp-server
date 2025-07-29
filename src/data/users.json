@@ -68,5 +68,25 @@
     "email": "test",
     "address": "test",
     "phone": "test"
+  },
+  {
+    "id": 11,
+    "name": "Kyle",
+    "email": "test@test.com",
+    "address": "334551",
+    "phone": "25151512"
+  },
+  {
+    "id": 12,
+    "firstName": "Eleanor",
+    "lastName": "Vance",
+    "email": "eleanor.vance78@example.com",
+    "address": {
+      "street": "481 Oak Ridge Rd",
+      "city": "Asheville",
+      "state": "NC",
+      "zipCode": "28803"
+    },
+    "phoneNumber": "828-555-0129"
   }
 ]
